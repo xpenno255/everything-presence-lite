@@ -17,7 +17,7 @@ update:
     disabled_by_default: true
 
 dashboard_import:
-  package_import_url: github://everythingsmarthome/everything-presence-lite/everything-presence-lite-ha-sen0395-no-ble.yaml@main
+  package_import_url: github://xpenno255/everything-presence-lite-109/everything-presence-lite-ha-sen0395-no-ble.yaml@main
   import_full_config: false # or true
 
 packages:
